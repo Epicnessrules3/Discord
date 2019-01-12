@@ -1622,6 +1622,7 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {font-family: var(--cus
 }
 .guildInner-3DSoA4[style*="background-color"] {
   background-color: transparent !important;
+  opacity: 0.5;
 }
 .guildInner-3DSoA4 a svg {
     background-image: var(--HomeButtonImg);
@@ -1647,7 +1648,7 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {font-family: var(--cus
 /* wordmark */
 .wordmark-2iDDfm {
   background-color: transparent;
-  opacity: .5;
+  opacity: .9;
   pointer-events: all;
 }
 .wordmark-2iDDfm svg path {display: none;}
