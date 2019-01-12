@@ -1612,6 +1612,7 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {font-family: var(--cus
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  opacity: 0.1;
 }
 /* home button image */
 .guildInner-3DSoA4 a svg g {display: none;}
@@ -1622,7 +1623,7 @@ body:not([class*="hljs"]):not(code):not([class*="ace_"]) {font-family: var(--cus
 }
 .guildInner-3DSoA4[style*="background-color"] {
   background-color: transparent !important;
-  opacity: 0.5;
+  opacity: 0.1;
 }
 .guildInner-3DSoA4 a svg {
     background-image: var(--HomeButtonImg);
