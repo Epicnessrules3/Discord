@@ -14,7 +14,7 @@ Discord theme : dark
     /* Images */
     --bgImage: url('https://img5.goodfon.com/original/2560x1440/9/24/astronaut-propast-noch-nebo-planeta-fantastika-skafandr.jpg');
     --HomeButtonImg: url("https://raw.githubusercontent.com/codedotspectra/discordneutron/master/import/homeBtn.png");
-    --brightness: 0.7;
+    --brightness: 1.0;
 
     /* font */
     --customFont: 'Montserrat';
